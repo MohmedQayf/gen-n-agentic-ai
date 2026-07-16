@@ -1,0 +1,70 @@
+{
+  "profile": {
+    "skinType": "Combination",
+    "concerns": [
+      "Aging/Fine lines",
+      "Dullness"
+    ],
+    "budget": "Premium",
+    "allergies": "girls"
+  },
+  "routine": {
+    "am": [
+      {
+        "step": 1,
+        "category": "Cleanser",
+        "ingredients": "Gentle surfactant, Glycerin",
+        "instructions": "Massage a small amount onto damp skin to remove overnight oils, then rinse with lukewarm water."
+      },
+      {
+        "step": 2,
+        "category": "Serum",
+        "ingredients": "Vitamin C (L-Ascorbic Acid), Ferulic Acid",
+        "instructions": "Apply 3-4 drops to dry skin; tap gently until fully absorbed to brighten and protect against environmental stressors."
+      },
+      {
+        "step": 3,
+        "category": "Moisturizer",
+        "ingredients": "Hyaluronic Acid, Ceramides",
+        "instructions": "Apply a lightweight, oil-free moisturizer to lock in hydration without clogging T-zone pores."
+      },
+      {
+        "step": 4,
+        "category": "SPF",
+        "ingredients": "Zinc Oxide or Avobenzone (Broad Spectrum SPF 50)",
+        "instructions": "Apply generously as the final step to prevent further fine lines and pigmentation."
+      }
+    ],
+    "pm": [
+      {
+        "step": 1,
+        "category": "Cleanser",
+        "ingredients": "Oil-based balm or micellar water",
+        "instructions": "Massage onto dry skin to dissolve SPF and impurities, then rinse thoroughly."
+      },
+      {
+        "step": 2,
+        "category": "Serum",
+        "ingredients": "Retinol or Retinaldehyde",
+        "instructions": "Apply a pea-sized amount to dry skin to accelerate cell turnover and target fine lines; use 3-4 times a week."
+      },
+      {
+        "step": 3,
+        "category": "Eye Cream",
+        "ingredients": "Peptides, Caffeine",
+        "instructions": "Pat lightly around the orbital bone to address under-eye pigmentation and fatigue."
+      },
+      {
+        "step": 4,
+        "category": "Moisturizer",
+        "ingredients": "Niacinamide, Squalane",
+        "instructions": "Apply a nourishing layer to balance oil production and support the skin barrier during repair."
+      }
+    ]
+  },
+  "safetyAudit": {
+    "score": 9,
+    "tips": "- Ensure the Vitamin C serum has a low pH (below 3.5) for optimal efficacy, and always wait 5–10 minutes after applying it before layering the moisturizer to avoid potential pilling or pH disruption.\n- Since you are using a retinol in the PM, ensure your SPF application in the AM is meticulous, as retinoids increase photosensitivity.\n- The routine is well-balanced for combination skin; however, if you experience any dryness or irritation while using the retinol, skip the exfoliation or retinol for one additional night per week to allow the skin barrier to recover."
+  },
+  "analysisResult": "Based on the provided image, the subject displays a generally smooth, well-maintained skin texture with no visible signs of active acne or significant redness. There is a noticeable level of sebum production, particularly across the T-zone and forehead, resulting in a healthy, dewy sheen. The overall complexion appears even, though the under-eye area shows slight pigmentation and fine lines consistent with natural aging. A consistent routine focusing on light, non-comedogenic hydration and occasional gentle exfoliation would be effective for maintaining this skin state."
+}
